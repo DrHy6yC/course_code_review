@@ -1,1 +1,1 @@
-# course_code_review
+# Example of authentication via jwt on fastapi
